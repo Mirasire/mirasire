@@ -1,7 +1,7 @@
 ### Hi Welcome 👋
 
 - 😀 I'm Mirasire, a software engineering student from Xiamen University Tan Kah Kee College.
-- 🌱 I’m currently learning competitive programming.
+<!-- - 🌱 I’m currently learning competitive programming. -->
 - 💫 Foucs on Linux,shell.
 
 
